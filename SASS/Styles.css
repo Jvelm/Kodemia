@@ -1,0 +1,46 @@
+.card {
+  width: 100px;
+  height: 100px;
+  margin: 1rem;
+  padding: 1rem;
+  background: #377;
+}
+
+.card1 {
+  background: #377;
+  width: 100px;
+  height: 100px;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.container {
+  background: #aaa;
+  height: 800px;
+}
+
+.container ul li {
+  padding: .5rem;
+}
+
+.container ul li.primary {
+  background: #377;
+}
+
+.container ul li.secondary {
+  background: tomato;
+}
+
+.container ul + a {
+  padding: 1rem;
+  background-color: aqua;
+}
+
+.container ul + a:hover {
+  background-color: green;
+}
+
+.btn-types-of-buttons {
+  content: "";
+}
+/*# sourceMappingURL=Styles.css.map */

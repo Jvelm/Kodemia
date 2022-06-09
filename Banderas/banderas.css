@@ -1,0 +1,50 @@
+.francia{
+    height: 350px;
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+}
+
+.francia-azul{
+    background-color: blue;
+}
+
+.francia-blanco{
+    background-color: white;
+}
+
+.francia-rojo{
+    background-color: red;
+}
+
+.bloque{
+    flex-basis: 100%;
+    flex-grow: 1;
+}
+
+.suecia{
+    height: 350px;
+    width: 600px;
+    display: flex;
+    background-color: blue;
+    justify-content: space-evenly;
+}
+
+.bloquess{
+    background-color: yellow
+}
+
+.suecia-vertical{
+    flex-grow: .1;
+
+}
+
+.suecia-vertical2{
+    flex-grow: .1;
+    background-color: blue;
+}
+
+.suecia-horizontal{
+    margin-top: 30%;
+    margin-bottom: 80%;
+}

@@ -1,0 +1,17 @@
+header{
+    width: 100%;
+    height: 90px;
+    background-color: yellow;
+}
+
+.conteiner{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    background-color: whitesmoke;
+}
+
+.compu{
+    height: 50px;
+
+}

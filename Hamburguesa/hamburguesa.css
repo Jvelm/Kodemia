@@ -1,0 +1,3 @@
+#burger:checked ~ .menu{
+    display: block;
+}
